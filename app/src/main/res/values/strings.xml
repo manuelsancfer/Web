@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Web</string>
+    <string name="typeURL">typeURL</string>
+    <string name="connect">connect</string>
 </resources>
